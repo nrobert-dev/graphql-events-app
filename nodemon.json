@@ -1,7 +1,7 @@
 {
   "env": {
     "MONGO_USER" : "admin",
-    "MONGO_PASSWORD" : "i wont push this",
+    "MONGO_PASSWORD" : "administratorupacii2020",
     "MONGO_DB" : "events-dev"
   }
 }
